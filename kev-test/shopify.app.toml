@@ -3,7 +3,7 @@
 client_id = "44baf452c3f2b1fc7a9ebb796e21b9c6"
 name = "kev-test"
 handle = "kev-test"
-application_url = "https://accomplished-pickup-reliability-conclude.trycloudflare.com"
+application_url = "https://awarded-markets-mutual-hello.trycloudflare.com"
 embedded = true
 
 [build]
@@ -27,9 +27,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://accomplished-pickup-reliability-conclude.trycloudflare.com/auth/callback",
-  "https://accomplished-pickup-reliability-conclude.trycloudflare.com/auth/shopify/callback",
-  "https://accomplished-pickup-reliability-conclude.trycloudflare.com/api/auth/callback"
+  "https://awarded-markets-mutual-hello.trycloudflare.com/auth/callback",
+  "https://awarded-markets-mutual-hello.trycloudflare.com/auth/shopify/callback",
+  "https://awarded-markets-mutual-hello.trycloudflare.com/api/auth/callback"
 ]
 
 [pos]
